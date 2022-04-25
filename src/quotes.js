@@ -994,6 +994,9 @@ let quotes = [
     }, {
         "quote": "Esperança é um empréstimo pedido à felicidade.",
         "author": "Joseph Joubert"
+    }, {
+        "quote": "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças.",
+        "author": "Charles Darwin"
     }
 ]
 export default quotes
