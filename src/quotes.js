@@ -128,7 +128,7 @@ let quotes = [
     },
     { 
         "quote": "As paixões cegam. O verdadeiro amor nos torna lúcidos.",
-        "author": "Desconhecido"
+        "author": ""
     },
     { 
         "quote": "Não é preciso experiência mística para descobrir que o mundo é bom.",
@@ -176,7 +176,7 @@ let quotes = [
     },
     { 
         "quote": "A vida é como um livro que deve ser folheado página por página sem se consultar o índice.",
-        "author": "Desconhecido"
+        "author": ""
     },
     {
         "quote": "Não acrescente dias à sua vida, mas vida aos seus dias.",
@@ -192,7 +192,7 @@ let quotes = [
     },
     {
         "quote": "Depois da tempestade vem a bonança.",
-        "author": "Desconhecido"
+        "author": ""
     },
     {
         "quote": "Quando Deus quer, não há quem não queira.",
@@ -260,7 +260,7 @@ let quotes = [
     },
     {
         "quote": "Devemos esperar o melhor, mas estar preparado para o pior.",
-        "author": "Desconhecido"
+        "author": ""
     },{
         "quote": "Como fica forte uma pessoa quando está segura de ser amada!",
         "author": "Sigmund Freud"
@@ -402,7 +402,7 @@ let quotes = [
         "author": "Sócrates"
     }, {
         "quote": "Há lágrimas que correm pela Face e outras que rolam pelo coração.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "Precisamos manter a vida com folga, para que a urgência não se faz necessária.",
         "author": "Walter Grando"
@@ -456,7 +456,7 @@ let quotes = [
         "author": "James Russel Lowell"
     }, {
         "quote": "Liderar não é impor, mas despertar para outros a vontade de fazer.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "Onde acaba o amor têm início o poder, a violência e o terror.",
         "author": "Carl Jung"
@@ -609,7 +609,7 @@ let quotes = [
         "author": "Provérbio Árabe"
     }, {
         "quote": "Você tem mais valor do que pensa. Enfrente os problemas confiante na vitória. ",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "Felicidade é a certeza de que a nossa vida não está se passando inutilmente.",
         "author": "Érico Veríssimo"
@@ -648,16 +648,13 @@ let quotes = [
         "author": "Mário Quintana"
     }, {
         "quote": "O estágio é a ponte entre teoria e prática.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "A vida é uma viagem de três estações: ação, experiência e recordação.",
         "author": "Victor Hugo"
     }, {
         "quote": "As casas são construídas para que se viva nelas, não para serem olhadas.",
         "author": "Francis Bacon"
-    }, {
-        "quote": "Francis Bacon",
-        "author": "Desconhecido"
     }, {
         "quote": "A confiança perdida é difícil de recuperar. Ela não cresce como as unhas.",
         "author": "Johannes Brahms"
@@ -759,7 +756,7 @@ let quotes = [
         "author": "Joyce Brothers"
     }, {
         "quote": "Toda boa secretária tem um pouco de mãe, de amiga e muito de eficiência profissional.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "A água que não corre forma um pântano; a mente que não trabalha forma um tolo.",
         "author": "Victor Hugo"
@@ -888,7 +885,7 @@ let quotes = [
         "author": "Oscar Wilde"
     }, {
         "quote": "A bandeira é o símbolo da pátria, por isso merece todo respeito e amor.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "As boas maneiras são a melhor herança",
         "author": "Clarice Lispector"
@@ -921,7 +918,7 @@ let quotes = [
         "author": "Carlos Drummond de Andrade"
     }, {
         "quote": "O sorriso é o idioma do amor universal, qualquer se entende.",
-        "author": "Desconhecido"
+        "author": ""
     }, {
         "quote": "Não se pode ensinar tudo a alguém, pode-se apenas ajudá-lo a encontrar por si mesmo.",
         "author": "Galileu Galilei"
