@@ -1,0 +1,22 @@
+{
+  "name": "Tempo de pensamentos",
+  "short_name": "TDP",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#333333",
+  "theme_color": "black",
+  "scope": ".",
+  "description": "Um pensamento para inspirar",
+  "icons": [
+    {
+      "src": "images/quotes192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/quotes512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

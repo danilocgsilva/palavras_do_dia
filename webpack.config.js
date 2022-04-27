@@ -1,6 +1,7 @@
 "use strict"
 
 const path = require('path');
+const CopyPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     mode: "development",
@@ -19,5 +20,15 @@ module.exports = {
                 'sass-loader'
             ]
         }]
-    }
+    },
+    plugins: [
+        new CopyPlugin({
+            patterns: [
+                {
+                    from: path.resolve(__dirname, 'resources', 'images'),
+                    to: path.resolve(__dirname, 'web', 'images')
+                }
+            ]
+        })
+    ]
 };
