@@ -997,6 +997,9 @@ let quotes = [
     }, {
         "quote": "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças.",
         "author": "Charles Darwin"
+    }, {
+        "quote": "O dia em que não se sorri é um dia perdido.",
+        "author": "Yur Arley Perea"
     }
 ]
 export default quotes
