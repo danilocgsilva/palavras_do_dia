@@ -2,3 +2,4 @@
 web/dist
 package-lock.json
 web/.DS_Store
+.DS_Store

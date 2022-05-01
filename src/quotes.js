@@ -1000,6 +1000,17 @@ let quotes = [
     }, {
         "quote": "O dia em que não se sorri é um dia perdido.",
         "author": "Yur Arley Perea"
+    },
+    {
+        "quote": "Eu não tenho ídolos. Tenho admiração por trabalho, dedicação e competência.",
+        "author": "Ayrton Senna"
+    },
+    {
+        "quote": "A ideologia é inimiga do pragmatismo. E onde tem pragmatismo, não cabe nenhuma ideologia.",
+        "author": ""
+    }, {
+        "quote": "A ideologia não é feita de fatos, mas sim, de amor e ódio.",
+        "author": ""
     }
 ]
 export default quotes
