@@ -1011,6 +1011,9 @@ let quotes = [
     }, {
         "quote": "A ideologia não é feita de fatos, mas sim, de amor e ódio.",
         "author": ""
+    }, {
+        "quote": "No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz.",
+        "author": "Ayrton Senna"
     }
 ]
 export default quotes
