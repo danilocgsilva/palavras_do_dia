@@ -1014,6 +1014,9 @@ let quotes = [
     }, {
         "quote": "No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz.",
         "author": "Ayrton Senna"
+    }, {
+        "quote": "Sem a autoconfiança, somos como bebês no berço.",
+        "author": "Virginia Woolf"
     }
 ]
 export default quotes
