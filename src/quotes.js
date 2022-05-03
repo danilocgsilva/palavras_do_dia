@@ -1017,6 +1017,9 @@ let quotes = [
     }, {
         "quote": "Sem a autoconfiança, somos como bebês no berço.",
         "author": "Virginia Woolf"
+    }, {
+        "quote": "Inovadores e gênios criativos não podem ser criados em escolas. Eles são exatamente as pessoas que desafiarão o que a escola os ensinou.",
+        "author": "Ludwig von Mises"
     }
 ]
 export default quotes
