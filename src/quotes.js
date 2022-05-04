@@ -1007,9 +1007,6 @@ let quotes = [
         "quote": "A ideologia é inimiga do pragmatismo. E onde tem pragmatismo, não cabe nenhuma ideologia.",
         "author": ""
     }, {
-        "quote": "A ideologia não é feita de fatos, mas sim, de amor e ódio.",
-        "author": ""
-    }, {
         "quote": "No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz.",
         "author": "Ayrton Senna"
     }, {
