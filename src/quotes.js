@@ -1000,12 +1000,10 @@ let quotes = [
     }, {
         "quote": "O dia em que não se sorri é um dia perdido.",
         "author": "Yur Arley Perea"
-    },
-    {
+    }, {
         "quote": "Eu não tenho ídolos. Tenho admiração por trabalho, dedicação e competência.",
         "author": "Ayrton Senna"
-    },
-    {
+    }, {
         "quote": "A ideologia é inimiga do pragmatismo. E onde tem pragmatismo, não cabe nenhuma ideologia.",
         "author": ""
     }, {
@@ -1020,6 +1018,9 @@ let quotes = [
     }, {
         "quote": "Inovadores e gênios criativos não podem ser criados em escolas. Eles são exatamente as pessoas que desafiarão o que a escola os ensinou.",
         "author": "Ludwig von Mises"
+    }, {
+        "quote": "Se você é um doador, por favor, conheça os seus limites. Pois os tomadores não possuem nenhum.",
+        "author": ""
     }
 ]
 export default quotes
