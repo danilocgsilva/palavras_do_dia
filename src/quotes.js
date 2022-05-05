@@ -1018,6 +1018,12 @@ let quotes = [
     }, {
         "quote": "Se você é um doador, por favor, conheça os seus limites. Pois os tomadores não possuem nenhum.",
         "author": ""
+    }, {
+        "quote": "Aceitar o fracasso é aceitar que as coisas fogem ao nosso controle o tempo todo e tudo que temos que fazer é buscar uma lapidação.",
+        "author": "João Silvério Trevisan"
+    }, {
+        "quote": "Não roubar, não deixar roubar e pôr na cadeia quem roube, eis o primeiro mandamento da moral pública!",
+        "author": "Ulysses Guimarães"
     }
 ]
 export default quotes
