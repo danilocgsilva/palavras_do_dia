@@ -1024,6 +1024,78 @@ let quotes = [
     }, {
         "quote": "Não roubar, não deixar roubar e pôr na cadeia quem roube, eis o primeiro mandamento da moral pública!",
         "author": "Ulysses Guimarães"
+    }, {
+        "quote": "Tudo é política, inclusive seu silêncio conveniente e disfarçado de neutralidade.",
+        "author": ""
+    }, { 
+        "quote": "Nada de desgosto, nem de desânimo; se acabou de fracassar, levante e recomece.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "O tolo não tem prazer na sabedoria, mas tão somente em revelar a sua opinião.",
+        "author": "Rei Salomão"
+    }, {
+        "quote": "Se você realmente quer escapar das coisas que o incomodam, o que você precisa não é estar em um lugar diferente, mas ser uma pessoa diferente.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer.",
+        "author": ""
+    }, {
+        "quote": "A essência do bem e do mal consiste na condição de nosso caráter.",
+        "author": "Epicteto"
+    }, {
+        "quote:": "Para que seja capaz de pensar, você deve assumir o risco de ser ofensivo.",
+        "author": "Jordan Peterson"
+    }, {
+        "quote": "Não há nada que o governo possa lhe dar que não tenha tirado de você antes.",
+        "author": "Winston Churchill"
+    }, {
+        "quote": "O sapato que se ajusta a um homem, aperta o outro. Não há nada na vida que funcione e todos os casos.",
+        "author": "Carl Jung"
+    }, {
+        "quote": "O problema do mundo de hoje é que as pessoas inteligentes estão cheias de dúvidas, e as pessoas idiotas estão cheias de certezas.",
+        "author": ""
+    }, {
+        "quote": "... é que sendo um tolo é mais fácil viver nesse mundo!",
+        "author": "Dostoiévski"
+    }, { 
+        "quote": "Um revés muitas vezes abriu caminho para uma maior prosperidade.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Nunca diga sobre nada: 'Eu perdi', mas apenas 'Eu desenvolvi'.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Tudo o que os malfeitores da vida pública mais querem é que continuemos a nos omitir da política.",
+        "author": "Bertold Brecht"
+    }, {
+        "quote": "Um dos maiores erros que existem é julgar as políticas públicas pelas suas intenções, e não por seus resultados.",
+        "author": "Milton Friedman"
+    }, {
+        "quote": "Amar o povo é fácil. O difícil é amar o próximo.",
+        "author": "Henry Ford"
+    }, {
+        "quote": "O que não transmite luz cria sua própria escuridão.",
+        "author": "Marco Aurélio"
+    }, { 
+        "quote": "Ao tentar agradar outras pessoas, corremos o risco de nos desviarmos para o que está fora de nossa esfera de influência. Agindo assim, perdemos o domínio sobre o propósito de nossa vida.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Não foi o trauma que te fez forte, mais gentil e mais compassivo. Foi com você lidou com isso. Esse crédito é seu.",
+        "author": ""
+    }, {
+        "quote": "Quanto mais há necessidade de falar sobre os ideais da democracia, menos democrático o sistema geralmente é.",
+        "author": "Chomsky"
+    }, {
+        "quote": "É melhor calar-se e deixar que as pessoas pensem que você é um idiota do que falar e acabar com a dúvida.",
+        "author": "Abraham Lincoln"
+    }, {
+        "quote": "Toda vez que você se encontrar do lado da maioria, é hora de parar e refletir.",
+        "author": "Mark Twain"
+    }, {
+        "quote": "Não roubar, não deixar roubar e pôr na cadeia quem roube, eis o primeiro mandamento da moral pública!",
+        "author": "Ulysses Guimarães"
+    }, {
+        "quote": "Se você fizer algo interessante no mundo, haverá críticas. Se você não pode tolerar críticas, não faça nada novo ou interessante.",
+        "author": "Jeff Bezos"
     }
 ]
 export default quotes
