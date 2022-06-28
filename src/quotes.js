@@ -857,7 +857,7 @@ let quotes = [
         "quote": "A Terra é insultada e oferece suas flores como resposta.",
         "author": "Rabindranath Tagore"
     }, {
-        "quote": "Nada há de mais produtivo para o sucesso do que a firmeza da vontade e o anseio da glória.",
+        "quote": "Nada há nada de mais produtivo para o sucesso do que a firmeza da vontade e o anseio da glória.",
         "author": "Lopold von Ranke"
     }, {
         "quote": "Ao que tem fome dá teu pão, mas ao triste dá-lhe o coração.",
