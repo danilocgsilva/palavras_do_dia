@@ -330,7 +330,7 @@ let quotes = [
         "author": "Josephine von Knorr"
     },
     {
-        "quote": "A ambição universal dos homens é viver colhendo o que nunca plantaram.",
+        "quote": "A ambição universal dos homens é viver colhendo o que nunca plantou.",
         "author": "Adam Smith"
     },
     {
@@ -980,7 +980,7 @@ let quotes = [
         "quote": "A verdadeira afeição na longa ausência se prova.",
         "author": "Luís de Camões"
     }, {
-        "quote": "Nas trevas a imaginação trabalhar mais ativamente do que em plena luz.",
+        "quote": "Nas trevas a imaginação trabalha mais ativamente do que em plena luz.",
         "author": "Immanuel Kant"
     }, {
         "quote": "O conselho raramente é bem recebido e quem mais necessita dele é quem menos o aprecia.",
@@ -1079,7 +1079,7 @@ let quotes = [
         "quote": "Ao tentar agradar outras pessoas, corremos o risco de nos desviarmos para o que está fora de nossa esfera de influência. Agindo assim, perdemos o domínio sobre o propósito de nossa vida.",
         "author": "Epicteto"
     }, {
-        "quote": "Não foi o trauma que te fez forte, mais gentil e mais compassivo. Foi com você lidou com isso. Esse crédito é seu.",
+        "quote": "Não foi o trauma que te fez forte, mais gentil e mais compassivo. Foi como você lidou com isso. Esse crédito é seu.",
         "author": ""
     }, {
         "quote": "Quanto mais há necessidade de falar sobre os ideais da democracia, menos democrático o sistema geralmente é.",
@@ -1096,6 +1096,219 @@ let quotes = [
     }, {
         "quote": "Se você fizer algo interessante no mundo, haverá críticas. Se você não pode tolerar críticas, não faça nada novo ou interessante.",
         "author": "Jeff Bezos"
+    }, {
+        "quote": "Apressa-te a viver bem e pensa que cada dia é, por si só, uma vida.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Tocar uma nota errada é insignificante. Tocar sem paixão é imperdoável.",
+        "author": "Ludwig Beethoven"
+    }, {
+        "quote": "Por que não age ao invés de reclamar?",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Há um ditado italiano que diz: O vendedor de parafusos sempre tem uma chave de fenda para oferecer. Neste sentido, é muito comum que os grandes midiáticos apontem problemas em você para, em seguida, vender a \"solução\". Tenha sempre bom siso!",
+        "author": "Antoni Cataniello"
+    }, {
+        "quote": "Não confie em todas as palavras bonitas. Muitas pessoas têm açúcar no boca e o veneno no coração.",
+        "author": ""
+    }, {
+        "quote": "O homem que sofre antes de ser necessário, sobre mais do que o necessário.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Os dois guerreiros mais poderosos são paciência e tempo.",
+        "author": "Tolstoi"
+    }, {
+        "quote": "Quando alguém está devidamente fundamentado na vida, não deveria ter que procurar aprovação fore de si mesmo.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Viver segunda a razão é viver segundo a lei.",
+        "author": "Aristóteles"
+    }, {
+        "quote": "Seja como a rocha sobre a qual as ondes se quebram. Ela permanece imóvel e a fúria do mar ainda cai ao seu redor.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "O fanatismo é a única forma de vontade que pode ser incutida nos fracos e nos tímidos.",
+        "author": "Friedrich Nietzsche"
+    }, {
+        "quote": "O mundo não é nada além de mudança. Nossa vida é apenas percepção.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Aprendi a não tentar convencer ninguém. O trabalho de convencer é uma falta de respeito, é uma tentativa de colonização do outro.",
+        "author": ""
+    }, {
+        "quote": "Não está no poder de nenhum homem ter o que quer; mas ele tem o poder de não desejar o que não tem e alegremente aproveitar ao máximo as coisas que surgem em seu caminho.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Tudo o que ouvimos é uma opinião, não um fato. Tudo o que vemos é uma perspectiva, não uma verdade.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Um dos mais graves problemas do mundo corporativo é pessoas em posição de comando sem nenhuma aptidão humana.",
+        "author": "Eduardo Tevah"
+    }, {
+        "quote": "Hoje as pessoas sabem o preço de tudo e o valor de nada.",
+        "author": "Oscar Wilde"
+    }, { 
+        "quote": "Se você perdeu dinheiro, perdeu pouco. Se perdeu a honra, perdeu muito. Se perdeu a coragem, perdeu tudo.",
+        "author": "Vincent van Gogh"
+    }, {
+        "quote": "Há pessoas menos qualificadas que você, fazendo coisas que você quer fazer. Simplesmente porque elas decidiram agir.",
+        "author": "Jack Ma"
+    }, {
+        "quote": "Você precisa construir sua própria vida, ação por ação.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "A qualidade das nossas vidas é o reflexo dos nossos pensamentos.",
+        "author": "Marco Aurélio"
+    }, { 
+        "quote": "Dedica-se a esperar o futuro apenas quem não sabe viver o presente.",
+        "author": "Sêneca"
+    }, {
+        "quote": "É difícil encontrar a felicidade dentro de si mesmo, mas é impossível encontrá-la em qualquer outro lugar",
+        "author": "Schopenhauer"
+    }, {
+        "quote": "Exige muito de si e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.",
+        "author": "Confúncio"
+    }, {
+        "quote": "A bondade é invencível, se for sincera, sem bajulação ou fingimento.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "O melhor indicador de caráter de uma pessoa é como ela trata as pessoas que não podem lhe trazer benefícil algum.",
+        "author": ""
+    }, { 
+        "quote": "Seu melhor professor é o erro. Ele cobra caro, mas ensina bem.",
+        "author": ""
+    }, {
+        "quote": "Não busque a felicidade fora, mas sim dentro de você, caso contrário nunca a encontrará.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Se você quer algo bom, obtenha de você mesmo",
+        "author": "Epicteto"
+    }, {
+        "quote": "São as dificuldades que criam as pessoas.",
+        "author": "Epiteto"
+    }, {
+        "quote": "Às vezes faço o que quero. O resto do tempo, eu faço o que tem que ser feito.",
+        "author": "Cícero"
+    }, {
+        "quote": "Às vezes, até mesmo viver é um ato de coragem.",
+        "author": "Sêneca"
+    }, {
+        "quote": "É melhor vencer a dor do que enganá-la",
+        "author": "Sêneca"
+    }, {
+        "quote": "Se um homem de negócios comete um erro, ele sofre as consequências. Se um burocrata comete um erro, você sobre as consequências.",
+        "author": "Ayn Rand"
+    }, {
+        "quote": "Através da disciplina bem a liberdade.",
+        "author": "Aristóteles"
+    }, {
+        "quote": "Eles falam de você, porque se falassem deles mesmos, ninguém ouviria.",
+        "author": ""
+    }, {
+        "quote": "Para cada desafio, lembre-se dos recursos que você tem dentro de você para enfrentá-lo.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Nada de desgosto e nem de desânimo. Se acabou de fracassar, recomece.",
+        "author": "Epicteto"
+    }, {
+        "quote": "A vida é muito curta e ansiosa para aqueles que esquecem o passado, negligenciam o presente e temem o futuro.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Dê sempre o seu melhor, independente do tamanho da sua platéia.",
+        "author": ""
+    }, {
+        "quote": "Você nunca sabe que resultados virão da sua ação. Mas se você não fizer nada, não existirão resultados.",
+        "author": "Nahatma Gandhi"
+    }, {
+        "quote": "O sol nasce para todos. A sombra é para quem planta.",
+        "author": ""
+    }, {
+        "quote": "Muitas vezes erra não apenas quem faz, mas também quem deixa de fazer alguma coisa.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "[O sábio] sabe quão grande é o poder dos erros, quão incerto são os assuntos humanos, quantos obstáculos existem para o sucesso dos planos.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Elogiar a si mesmo desagrada a todos.",
+        "author": "Diógenes"
+    }, {
+        "quote": "Ninguém é melhor do que ninguém, mas alguns se destacam por seu caráter e outros pela falta dele.",
+        "author": ""
+    }, {
+        "quote": "Da sua pior situação, pode surgir sua maior oportunidade.",
+        "author": ""
+    }, {
+        "quote": "Ninguém viu você saindo de casa debaixo de chuva para conseguir alcançar um futuro melhor. Ninguém viu você orando nas madrugadas para conquistar o que tem hoje. Vão falar que foi sorte, mas não vão entender o real motivo do propósito.",
+        "author": ""
+    }, {
+        "quote": "Quanto mais a mente recebe, mas ela se expande.",
+        "author": "Sêneca"
+    }, {
+        "quote": "A exigência de ser amado é a maior das pretensões",
+        "author": "Friedrich Nietzsche"
+    }, {
+        "quote": "São as dificuldades que realmente mostram quem são as pessoas.",
+        "author": "Epiteto"
+    }, { 
+        "quote": "Liberdade significa não somente que o indivíduo tenha tanto a oportunidade quanto o fardo da escolha; significa também que ele deve arcar com as consequências de suas ações. Liberdade e responsabilidade são inseparáveis.",
+        "author": "Friedrich Hayek"
+    }, {
+        "quote": "Não podemos escolher as circonstâncias externas, mas sempre podemos escolher como responder a elas.",
+        "author": "Epíteto"
+    }, {
+        "quote": "Nada é bastante ao homem para quem tudo é demasiado pouco.",
+        "author": "Epicuro"
+    }, {
+        "quote": "O primeiro passo para viver com sabedoria é renunciar à vaidade.",
+        "author": "Epictectus"
+    }, {
+        "quote": "Se conseguiste enganar uma pessoa, isso não significa que ela seja tola, isso significa que ela confiou em você mais do que você merecia.",
+        "author": "Charles Bukowiski"
+    }, {
+        "quote": "O sábio, porém, não se sente menosprezado por ninguém, conhece sua grandeza e afirma para si mesmo que ninguém tem poder sobre ele.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Se não estiver certo, não faça; se não for verdade não diga.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Quando sabemos quem somos, não precisamos andar preocupados com o que pensam ao nosso respeito.",
+        "author": ""
+    }, { 
+        "quote": "A inveja é admiração escondida.",
+        "author": "Kierkegaard"
+    }, {
+        "quote": "Um pouco de desprezo economiza bastante ódio.",
+        "author": "Jules Renard"
+    }, {
+        "quote": "O tipo mais detestável de devedor é aquele que insulta o seu credor.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Receba sem orgulho, deixe ir sem apego.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Muito ganha aquele que aprende quando perde.",
+        "author": "Michelangelo"
+    }, {
+        "quote": "Eu sou eu, você é você. A comparação traz conflito. A comparação traz ambição, a comparação traz imitação.",
+        "author": ""
+    }, {
+        "quote": "Não é o que acontece com você, mas como você reage a isso que realmente importa.",
+        "author": "Epiteto"
+    }, {
+        "quote": "Piores são as consequências da ira do que suas causas.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "As dificuldades fortalecem a mente, assim como o trabalho o faz com o corpo.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Você tem que estar preparado para se queimar em sua própria chama: como se renovar sem primeiro se tornar cinza? (Assim Falou Zaratustra)",
+        "author": "Friedrich Nietzsche"
+    }, {
+        "quote": "Nem sempre é necessário tornar-se forte. Temos que respirar nossas fraquezas.",
+        "author": "Clarice Lispector"
+    }, {
+        "quote": "Para todo problema complexo existe uma solução simples, elegante e completamente errada.",
+        "author": "H. L. Mencken"
     }
 ]
 export default quotes
