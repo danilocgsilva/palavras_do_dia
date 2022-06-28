@@ -1309,6 +1309,87 @@ let quotes = [
     }, {
         "quote": "Para todo problema complexo existe uma solução simples, elegante e completamente errada.",
         "author": "H. L. Mencken"
+    }, {
+        "quote": "Não dê às coisas pequenas mais tempo do que elas merecem.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Cada dia adquira algo que o fortaleça contra a pobreza, contra a morte, até mesmo contra outros infortúnios, e depois de ter repassado muitos pensamentos, escolha um para ser bem digerido naquele dia.",
+        "author": "Sêneca"
+    }, {
+        "quote": "O tempo é um ótimo professor. Pena que mata seus alunos.",
+        "author": "Hector Berlioz"
+    }, {
+        "quote": "Ninguém faz o mal voluntariamente.",
+        "author": "Sócrates"
+    }, {
+        "quote": "É preciso ter asas, quando se ama o abismo",
+        "author": "Friedrich Nietzsche"
+    }, {
+        "quote": "Não viva para o aplauso da multidão. Viva para a aprovação de Deus.",
+        "author": ""
+    }, {
+        "quote": "Você tem poder sobre sua mente, não sobre eventos externos. Perceba isso, e você encontrará força.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Para que mostrar nossa ruína se podemos fingir a prosperidade?",
+        "author": "Emil Cioran"
+    }, {
+        "quote": "Você poderia deixar a vida agora. Deixe que isso determine o que você faz, diz e pensa.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "Se não conto meu segredo, ele é meu prisioneiro. Se o deixo escapar, sou prisioneiro dele. Da árvore do silêncio pende seu fruto: a paz.",
+        "author": "Schopenhauer"
+    }, {
+        "quote": "Ouça mais pessoas quee estão onde você gostaria de estar e menos as que nem sabem onde estão...",
+        "author": ""
+    }, {
+        "quote": "Saber muito não lhe torna inteligente. A inteligência se traduz na forma como você recolhe, julga, maneja e sobretudo, onde e como aplica essa informação.",
+        "author": "Carl Sagan"
+    }, {
+        "quote": "Nada importante surge da noite para o dia.",
+        "author": "Epicteto"
+    }, {
+        "quote": "Quando você estiver muito irritado ou triste, lembre-se que a vida é só um momento.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "O que quer que possa acontecer a qualquer momento, pode acontecer hoje.",
+        "author": "Sêneca"
+    }, {
+        "quote": "A melhor forma de se defender das pessoas hostis é não se tornar semelhante a elas.",
+        "author": "Marco Aurélio"
+    }, {
+        "quote": "O fogo prova o ouro, o infortúnio prova os homens corajosos.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Tudo está perdido, quando os maus servem de exemplo e os bons são motivo de piada.",
+        "author": "Demócrito"
+    }, {
+        "quote": "Quem vive nas trevas não consegue ser visto, nem vê nada.",
+        "author": "Khalil Gibran"
+    }, {
+        "quote": "O mais competente não discute, domina sua ciência e cala-se.",
+        "author": "Voltaire"
+    }, {
+        "quote": "A única pessoa com a qual você pode se comprar é com você mesmo no passado.",
+        "author": "Sigmund Freud"
+    }, {
+        "quote": "Não é segura a vida daqueles que vivem sob uma máscara.",
+        "author": "Sêneca"
+    }, {
+        "quote": "Ocupe-se apenas do que pode controlar",
+        "author": "Epicteto"
+    }, {
+        "quote": "O desejo de salvar a humanidade é quase sempre um disfarce para o desejo de controlá-la.",
+        "author": "H. L. Mencken"
+    }, {
+        "quote": "De que são feitos os dias? De pequenos desejos, vagarosas saudades e silenciosas lembranças.",
+        "author": "Cecília Meireles"
+    }, {
+        "quote": "Quanto mais nos elevamos, menores parecemos aos olhos daqueles que não sabem voar.",
+        "author": "Friedrich Nietzsche"
+    }, {
+        "quote": "O dia bom é um convite para comemoração; o dia ruim é um chamado à reflexão.",
+        "author": ""
     }
 ]
 export default quotes
