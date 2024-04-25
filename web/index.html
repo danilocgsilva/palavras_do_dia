@@ -2,45 +2,54 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tempo do pensamento</title>
-    <meta name="apple-mobile-web-app-status-bar" content="#aa7700">
-    <meta name="theme-color" content="black">
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="manifest" href="manifest.json">
-    <script src="dist/app.js"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=%"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '%');
+  </script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tempo do pensamento</title>
+  <meta name="apple-mobile-web-app-status-bar" content="#aa7700">
+  <meta name="theme-color" content="black">
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="manifest" href="manifest.json">
+  <script src="dist/app.js"></script>
 </head>
 
 <body>
-    <main class="container">
-        <div class="p-5 mt-3 quote-container">
-            <p id="quote"></p>
-            <button class="btn next">Próximo</button>
-            <div id="version" style="font-size:0">0</div>
-        </div>
-    </main>
+  <main class="container">
+    <div class="p-5 mt-3 quote-container">
+      <p id="quote"></p>
+      <button class="btn next">Próximo</button>
+      <div id="version" style="font-size:0">0</div>
+    </div>
+  </main>
 
-    <script>
-        window.addEventListener('load', () => {
-          registerSW();
-        });
-     
-        // Register the Service Worker
-        async function registerSW() {
-          if ('serviceWorker' in navigator) {
-            try {
-              await navigator
-                    .serviceWorker
-                    .register('serviceworker.js');
-            }
-            catch (e) {
-              console.log('SW registration failed');
-            }
-          }
+  <script>
+    window.addEventListener('load', () => {
+      registerSW();
+    });
+
+    // Register the Service Worker
+    async function registerSW() {
+      if ('serviceWorker' in navigator) {
+        try {
+          await navigator
+            .serviceWorker
+            .register('serviceworker.js');
         }
-     </script>
+        catch (e) {
+          console.log('SW registration failed');
+        }
+      }
+    }
+  </script>
 </body>
 
 </html>
